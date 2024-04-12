@@ -37,7 +37,16 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
 </p>
 
-![Subashkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subashkumar-S&show_icons=true&theme=dark)   ![LeetCode Stats](https://leetcard.jacoblin.cool/Subash2232?theme=dark&font=Ubuntu%20Mono&ext=heatmap)
+
+<p>
+ <img 
+  align="left" 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=Subashkumar-S&show_icons=true&locale=en&layout=compact&theme=tokyonight"         alt="most used languages" 
+  />
+</p>
+
+![Subashkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subashkumar-S&show_icons=true&theme=dark) 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Subash2232?theme=dark&font=Ubuntu%20Mono&ext=heatmap)
 
 [![Subashkumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subashkumar-S&bg_color=000000&color=f6f5f4&line=49a835&point=f6f5f4&area=true&hide_border=true)](https://github.com/Subashkumar-S/github-readme-activity-graph)
 <!--
