@@ -1,6 +1,7 @@
-### Hi there 👋 I'm Subashkumar
+<h1 align="center">Hi there 👋 I'm Subashkumar</h1>
+<h3 align="center">I'm a passionate **Fullstack Developer**</h3>
 
- <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="370" height="290"/>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="370" height="290"/>
  
 - 🔭 I’m currently working on **MERN Blog App**
 - 🌱 I’m currently learning **DSA**
