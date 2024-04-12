@@ -8,11 +8,11 @@
   <a href="https://www.linkedin.com/in/subashkumar-s">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-jobseeker-profile--profile-one-frontend">
+    <img src="https://img.shields.io/badge/Indeed-blue?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.instagram.com/__subashkumar__">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 <!--
